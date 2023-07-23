@@ -148,6 +148,7 @@ class Library {
             System.out.println("Invalid member ID.");
         } else if (book == null) {
             System.out.println("Invalid book ID.");
+		System.out.println("Invalid book ID.");
 
 }
 	}
